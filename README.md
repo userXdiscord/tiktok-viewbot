@@ -1,4 +1,6 @@
-Free Tiktok ViewBot using Requests                             
+Free Tiktok ViewBot using Requests:
+
+
 𝙸𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜:
 1. Verify that you have pip and python installed => https://www.youtube.com/watch?v=dYfKJMPNMDw
 2. Run this command in cmd: pip install requests bs4 cursor pystyle pillow
