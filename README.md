@@ -16,7 +16,7 @@
 
 𝚂𝚘𝚘𝚗 𝚝𝚘 𝚌𝚘𝚖𝚎:
 1. Proxy support
-2. Video Tutorial and better Documentation
+2. Like & Share Botting
 
 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛𝚜:
 Discord Usernames
