@@ -20,5 +20,5 @@
 
 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛𝚜:
 Discord Usernames
-1. m00nd4rk#0001
-2. &! Tekky#1337
+1. &! Tekky#1337 (main dev)
+1. m00nd4rk#0001 (style)
