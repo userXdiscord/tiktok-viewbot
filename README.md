@@ -17,7 +17,7 @@
 
 𝚂𝚘𝚘𝚗 𝚝𝚘 𝚌𝚘𝚖𝚎:
 1. Proxy support
-2. Like & Share Botting
+2. Share Botting
 
 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛𝚜:
 1. &! Tekky#1337 (main dev)
