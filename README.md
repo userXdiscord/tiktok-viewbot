@@ -3,6 +3,7 @@
 
 
 𝙸𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜:
+- Video Instruction: https://youtube.com/watch?v=nUWjYAgjXCc
 1. Verify that you have pip and python installed => https://www.youtube.com/watch?v=dYfKJMPNMDw
 2. Run this command in cmd: pip install requests bs4 cursor pystyle pillow
 3. Configure your videos id in the config.json folder
