@@ -10,7 +10,6 @@
 (if you do not know what a video id is, here is an example: https://cdn.discordapp.com/attachments/996789689673596928/997475748036235315/videoid.png)
 4. Make sure, you are in the folders path in a cmd and type: python viewbot.py
 
-- Video Instruction: https://youtube.com/watch?v=nUWjYAgjXCc
 𝙰𝚍𝚟𝚊𝚗𝚝𝚊𝚐𝚎𝚜:
 1.  fast, easy
 2.  Has dynamic views count running on TikTok API
